@@ -46,6 +46,3 @@ echo '{
     "dev": "nodemon"
   }
 }' > package.json
-
-# Make the setup script executable
-chmod +x setup.sh
